@@ -3,11 +3,11 @@ document.getElementById("navigation").innerHTML =
 "<table>" +
 "<tr>" +
 "<td><b>2020</b></td>" +
-"<td><a href='mitm.html'>Made It to Midnight</a>" +
+"<td><a href='mitm'>Made It to Midnight</a>" +
 "</tr>" +
 "<tr>" +
 "<td><b>2019</b></td>" +
-"<td><a href='fallforyou.html'>Fall for You</a></td>" +
+"<td><a href='fallforyou'>Fall for You</a></td>" +
 "</tr>" +
 "</table>";
 
