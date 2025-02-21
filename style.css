@@ -27,6 +27,7 @@ button {
 	width: 70%;
 	text-shadow: 4px 4px black;
 	box-shadow: 4px 4px #9479b3;
+	cursor: pointer;
 }
 
 .spotify {
